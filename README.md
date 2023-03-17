@@ -7,3 +7,5 @@
 
 
 ## 1. Hands on Machine Learning with Scikit Learn and Tensorflow pdf
+
+## 2. ISLR Seventh Printing pdf
