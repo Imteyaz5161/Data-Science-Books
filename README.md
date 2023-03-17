@@ -11,6 +11,3 @@
 ## 2. ISLR Seventh Printing pdf
 
 
-
-
-## https://github.com/Imteyaz5161/Data-Science-Books/blob/main/Machine%20Learning%20Book/ISLR%20Seventh%20Printing.pdf
